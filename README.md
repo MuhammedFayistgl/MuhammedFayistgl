@@ -1,10 +1,9 @@
 ![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
 <h1 align="center">Hi 👋, I'm Muhammed Fayis Thangal</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedfayistgl&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedfayistgl" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedfayistgl" alt="muhammedfayistgl" /></a> </p>
-
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 - 🌱 I’m currently learning **React js**
 
 - 👨‍💻 All of my projects are available at [https://muhammedfayistgl.github.io/portfolio_fayis/](https://muhammedfayistgl.github.io/portfolio_fayis/)
