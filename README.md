@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedfayistgl&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedfayistgl" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedfayistgl" alt="muhammedfayistgl" /></a> </p>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning Full stack devolopment
 
 - 👨‍💻 All of my projects are available at [https://muhammedfayistgl.github.io/portfolio_fayis/](https://muhammedfayistgl.github.io/portfolio_fayis/)
 
