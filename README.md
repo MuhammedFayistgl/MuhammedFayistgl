@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQEwkmAF4PQCiQ/profile-displaybackgroundimage-shrink_350_1400/0/1606678801560?e=1709164800&v=beta&t=Uty-2B1eznStYr7zLRl1MirSdoEQkSxl-XOM3GcCXOY)
 <h1 align="center">Hi <img width='35' src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Muhammed Fayis Thangal</h1>
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif"/>
 <h3 align="center"> I'm an enthusiastic and passionate Software Developer from India ❤</h3>
 <P>A self-taught, passionate and fast-learner full-stack developer 🎯 from India 🌎. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀.</P>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedfayistgl&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedfayistgl" /> </p>
